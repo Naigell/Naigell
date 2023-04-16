@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Segun
-- 👀 I’m interested in data anlytics and machine learning
+- 👀 I’m interested in data analytics and machine learning
 - 💞️ I’m looking to collaborate on  data analytics and machine learning projects 
 - 📫 You can reach me by email on segunnigel@gmail.com
 
